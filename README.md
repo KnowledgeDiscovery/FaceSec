@@ -129,3 +129,4 @@ Adding more datasets and face recognition models to FaceSec is trivial.
 
 ## Contact
 * Liang Tong (liangtong39@gmail.com)
+* Zhengzhang Chen (zhengzhang.chen@gmail.com)
