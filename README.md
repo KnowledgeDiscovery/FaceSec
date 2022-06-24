@@ -1,6 +1,6 @@
 # FaceSec: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems
 
-Sample code corresponding to the paper "FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems" at CVPR 2021 ([PDF](https://arxiv.org/pdf/2104.04107.pdf)). The current implementation supports dodging attacks on both closed-set and open-set systems, with individual and universal attacks. Here, VGGFace and FaceNet are used for demonstration. For other face recognition systems, see the instruction below.
+Code for "FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems" at CVPR 2021 ([PDF](https://arxiv.org/pdf/2104.04107.pdf)). The current implementation supports dodging attacks on both closed-set and open-set systems, with individual and universal attacks. Here, VGGFace and FaceNet are used for demonstration. For other face recognition systems, see the instruction below.
 
 ## Environment and prerequisites
 Before getting started, we recommend using Python 3 (>=3.6.7) throughout the experiments. In addition, the following packages are required.
