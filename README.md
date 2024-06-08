@@ -130,3 +130,12 @@ Adding more datasets and face recognition models to FaceSec is trivial.
 ## Contact
 * Liang Tong (liangtong39@gmail.com)
 * Zhengzhang Chen (zhengzhang.chen@gmail.com)
+
+## License
+
+Creative Commons Attribution-NonCommercial (CC BY-NC) 4.0 International License
+
+The OC4Seq is released under a CC BY-NC 4.0 International License:
+https://creativecommons.org/licenses/by-nc/4.0.
+
+The technology/code is protected by the patents. NonCommercial — You can not use the code for commercial purposes.
